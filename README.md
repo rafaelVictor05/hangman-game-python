@@ -2,6 +2,8 @@
 
 A simple hangman game written in Python.
 
+![Captura de Tela do Jogo](https://i.imgur.com/bajSOkX.png)
+
 ## Description
 
 This project is a classic hangman game implemented in Python. It randomly selects a word from a list of English words loaded from a file (`words.txt`), and the player must guess the word letter by letter. With each wrong guess, a part of the hangman is drawn. The game ends when the player either guesses the word or runs out of lives.
