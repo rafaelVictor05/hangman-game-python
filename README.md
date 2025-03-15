@@ -2,7 +2,7 @@
 
 A simple hangman game written in Python.
 
-![Captura de Tela do Jogo](https://imgur.com/yUaxuSh)
+![Captura de Tela do Jogo](https://imgur.com/a/hangman-game-screenshot-bajSOkX)
 
 ## Description
 
